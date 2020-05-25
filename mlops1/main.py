@@ -83,5 +83,4 @@ f.close()
 os.system("mv /root/mlops/mlops1/accuracy.txt /root/mycode")
 
 
-
 # In[ ]:

@@ -4,4 +4,5 @@ Mlops project , in which integrating #machinelearning and #deeperlearning models
 This automation is done using jenkins.
 
 to see  the project visit : https://www.thesocialcomment.com/blog/MlOps-Project-1?pid=5ecd5d417023451e662235c5
+
 Linkdin post: https://www.linkedin.com/posts/kanika-sharma-335757167_mlops-project-1-activity-6671114076535582720-6WOI

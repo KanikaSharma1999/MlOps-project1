@@ -8,6 +8,6 @@ s.login("sender's email", "pass")
 # message to be sent 
 message = "Hey Developer, Finally we got the model trained. "
 # sending the mail 
-s.sendmail("meetkanikasharma01011999@gmail.com", "meetkanikasharma01011999@gmail.com", message) 
+s.sendmail("sender mail", "reciever mail", message) 
 # terminating the session 
 s.quit()
